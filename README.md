@@ -26,7 +26,7 @@
 
 ## Local development
 
-Please follow the same steps as during the installation. To start your containers do the following:
+Please follow the same steps as during the installation (except docker-compose up -d). To start your containers do the following:
 
     $ docker-compose -f docker-compose-dev.yml up -d
 
